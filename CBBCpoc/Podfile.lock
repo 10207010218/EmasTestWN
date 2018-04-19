@@ -19,6 +19,15 @@ DEPENDENCIES:
   - WeexGcanvas
   - WeexSDK
 
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - GCanvas
+    - SDWebImage
+    - SocketRocket
+    - WeexGcanvas
+    - WeexPluginLoader
+    - WeexSDK
+
 SPEC CHECKSUMS:
   GCanvas: 9e3001e7b66666e75561bef7afd0098b2bb71754
   SDWebImage: 69c6303e3348fba97e03f65d65d4fbc26740f461
@@ -29,4 +38,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: 1089769fc1c5089b317107be5f87753f0ecfd325
 
-COCOAPODS: 1.2.0
+COCOAPODS: 1.5.0
